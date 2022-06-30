@@ -11,7 +11,7 @@ class Seg {
     }
 }
 
-public class Main {
+public class 区间选点 {
     public static void main(String[] args) {
         var sc = new Scanner(System.in);
         int n = sc.nextInt();
